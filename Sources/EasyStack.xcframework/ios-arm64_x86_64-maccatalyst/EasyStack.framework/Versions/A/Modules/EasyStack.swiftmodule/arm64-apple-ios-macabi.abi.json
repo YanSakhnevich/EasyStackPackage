@@ -1,0 +1,1594 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EasyStack",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EasyStack",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VerticalAlignment",
+        "printedName": "VerticalAlignment",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "top",
+            "printedName": "top",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(EasyStack.VerticalAlignment.Type) -> EasyStack.VerticalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VerticalAlignment",
+                    "printedName": "EasyStack.VerticalAlignment",
+                    "usr": "s:9EasyStack17VerticalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "EasyStack.VerticalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VerticalAlignment",
+                        "printedName": "EasyStack.VerticalAlignment",
+                        "usr": "s:9EasyStack17VerticalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9EasyStack17VerticalAlignmentO3topyA2CmF",
+            "mangledName": "$s9EasyStack17VerticalAlignmentO3topyA2CmF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "center",
+            "printedName": "center",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(EasyStack.VerticalAlignment.Type) -> EasyStack.VerticalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VerticalAlignment",
+                    "printedName": "EasyStack.VerticalAlignment",
+                    "usr": "s:9EasyStack17VerticalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "EasyStack.VerticalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VerticalAlignment",
+                        "printedName": "EasyStack.VerticalAlignment",
+                        "usr": "s:9EasyStack17VerticalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9EasyStack17VerticalAlignmentO6centeryA2CmF",
+            "mangledName": "$s9EasyStack17VerticalAlignmentO6centeryA2CmF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "bottom",
+            "printedName": "bottom",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(EasyStack.VerticalAlignment.Type) -> EasyStack.VerticalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VerticalAlignment",
+                    "printedName": "EasyStack.VerticalAlignment",
+                    "usr": "s:9EasyStack17VerticalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "EasyStack.VerticalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VerticalAlignment",
+                        "printedName": "EasyStack.VerticalAlignment",
+                        "usr": "s:9EasyStack17VerticalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9EasyStack17VerticalAlignmentO6bottomyA2CmF",
+            "mangledName": "$s9EasyStack17VerticalAlignmentO6bottomyA2CmF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "firstTextBaseline",
+            "printedName": "firstTextBaseline",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(EasyStack.VerticalAlignment.Type) -> EasyStack.VerticalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VerticalAlignment",
+                    "printedName": "EasyStack.VerticalAlignment",
+                    "usr": "s:9EasyStack17VerticalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "EasyStack.VerticalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VerticalAlignment",
+                        "printedName": "EasyStack.VerticalAlignment",
+                        "usr": "s:9EasyStack17VerticalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9EasyStack17VerticalAlignmentO17firstTextBaselineyA2CmF",
+            "mangledName": "$s9EasyStack17VerticalAlignmentO17firstTextBaselineyA2CmF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "lastTextBaseline",
+            "printedName": "lastTextBaseline",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(EasyStack.VerticalAlignment.Type) -> EasyStack.VerticalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VerticalAlignment",
+                    "printedName": "EasyStack.VerticalAlignment",
+                    "usr": "s:9EasyStack17VerticalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "EasyStack.VerticalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VerticalAlignment",
+                        "printedName": "EasyStack.VerticalAlignment",
+                        "usr": "s:9EasyStack17VerticalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9EasyStack17VerticalAlignmentO16lastTextBaselineyA2CmF",
+            "mangledName": "$s9EasyStack17VerticalAlignmentO16lastTextBaselineyA2CmF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VerticalAlignment",
+                "printedName": "EasyStack.VerticalAlignment",
+                "usr": "s:9EasyStack17VerticalAlignmentO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VerticalAlignment",
+                "printedName": "EasyStack.VerticalAlignment",
+                "usr": "s:9EasyStack17VerticalAlignmentO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9EasyStack17VerticalAlignmentO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s9EasyStack17VerticalAlignmentO2eeoiySbAC_ACtFZ",
+            "moduleName": "EasyStack",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9EasyStack17VerticalAlignmentO9hashValueSivp",
+            "mangledName": "$s9EasyStack17VerticalAlignmentO9hashValueSivp",
+            "moduleName": "EasyStack",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9EasyStack17VerticalAlignmentO9hashValueSivg",
+                "mangledName": "$s9EasyStack17VerticalAlignmentO9hashValueSivg",
+                "moduleName": "EasyStack",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9EasyStack17VerticalAlignmentO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s9EasyStack17VerticalAlignmentO4hash4intoys6HasherVz_tF",
+            "moduleName": "EasyStack",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:9EasyStack17VerticalAlignmentO",
+        "mangledName": "$s9EasyStack17VerticalAlignmentO",
+        "moduleName": "EasyStack",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "HorizontalStack",
+        "printedName": "HorizontalStack",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(alignment:spacing:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "HorizontalStack",
+                "printedName": "EasyStack.HorizontalStack",
+                "usr": "c:@M@EasyStack@objc(cs)HorizontalStack"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VerticalAlignment",
+                "printedName": "EasyStack.VerticalAlignment",
+                "hasDefaultArg": true,
+                "usr": "s:9EasyStack17VerticalAlignmentO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreGraphics.CGFloat?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9EasyStack010HorizontalB0C9alignment7spacingAcA17VerticalAlignmentO_14CoreFoundation7CGFloatVSgtcfc",
+            "mangledName": "$s9EasyStack010HorizontalB0C9alignment7spacingAcA17VerticalAlignmentO_12CoreGraphics7CGFloatVSgtcfc",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "push",
+            "printedName": "push(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "HorizontalStack",
+                "printedName": "EasyStack.HorizontalStack",
+                "usr": "c:@M@EasyStack@objc(cs)HorizontalStack"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIView]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9EasyStack010HorizontalB0C4pushyACSo6UIViewCd_tF",
+            "mangledName": "$s9EasyStack010HorizontalB0C4pushyACSo6UIViewCd_tF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "Custom",
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "HorizontalStack",
+                "printedName": "EasyStack.HorizontalStack",
+                "usr": "c:@M@EasyStack@objc(cs)HorizontalStack"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@EasyStack@objc(cs)HorizontalStack(im)initWithFrame:",
+            "mangledName": "$s9EasyStack010HorizontalB0C5frameACSo6CGRectV_tcfc",
+            "moduleName": "EasyStack",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@EasyStack@objc(cs)HorizontalStack",
+        "mangledName": "$s9EasyStack010HorizontalB0C",
+        "moduleName": "EasyStack",
+        "declAttributes": [
+          "Custom",
+          "Final",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIStackView",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "UIKit.UIStackView",
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EasyStack",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Spaсer",
+        "printedName": "Spaсer",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Spaсer",
+                "printedName": "EasyStack.Spaсer",
+                "usr": "c:@M@EasyStack@objc(cs)Spaсer"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@EasyStack@objc(cs)Spaсer(im)initWithFrame:",
+            "mangledName": "$s9EasyStack009Spaer_DyeC5frameACSo6CGRectV_tcfc",
+            "moduleName": "EasyStack",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@EasyStack@objc(cs)Spaсer",
+        "mangledName": "$s9EasyStack009Spaer_DyeC",
+        "moduleName": "EasyStack",
+        "declAttributes": [
+          "Custom",
+          "Final",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EasyStack",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "HorizontalAlignment",
+        "printedName": "HorizontalAlignment",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "left",
+            "printedName": "left",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(EasyStack.HorizontalAlignment.Type) -> EasyStack.HorizontalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HorizontalAlignment",
+                    "printedName": "EasyStack.HorizontalAlignment",
+                    "usr": "s:9EasyStack19HorizontalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "EasyStack.HorizontalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HorizontalAlignment",
+                        "printedName": "EasyStack.HorizontalAlignment",
+                        "usr": "s:9EasyStack19HorizontalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9EasyStack19HorizontalAlignmentO4leftyA2CmF",
+            "mangledName": "$s9EasyStack19HorizontalAlignmentO4leftyA2CmF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "top",
+            "printedName": "top",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(EasyStack.HorizontalAlignment.Type) -> EasyStack.HorizontalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HorizontalAlignment",
+                    "printedName": "EasyStack.HorizontalAlignment",
+                    "usr": "s:9EasyStack19HorizontalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "EasyStack.HorizontalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HorizontalAlignment",
+                        "printedName": "EasyStack.HorizontalAlignment",
+                        "usr": "s:9EasyStack19HorizontalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9EasyStack19HorizontalAlignmentO3topyA2CmF",
+            "mangledName": "$s9EasyStack19HorizontalAlignmentO3topyA2CmF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "right",
+            "printedName": "right",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(EasyStack.HorizontalAlignment.Type) -> EasyStack.HorizontalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HorizontalAlignment",
+                    "printedName": "EasyStack.HorizontalAlignment",
+                    "usr": "s:9EasyStack19HorizontalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "EasyStack.HorizontalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HorizontalAlignment",
+                        "printedName": "EasyStack.HorizontalAlignment",
+                        "usr": "s:9EasyStack19HorizontalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9EasyStack19HorizontalAlignmentO5rightyA2CmF",
+            "mangledName": "$s9EasyStack19HorizontalAlignmentO5rightyA2CmF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "center",
+            "printedName": "center",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(EasyStack.HorizontalAlignment.Type) -> EasyStack.HorizontalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HorizontalAlignment",
+                    "printedName": "EasyStack.HorizontalAlignment",
+                    "usr": "s:9EasyStack19HorizontalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "EasyStack.HorizontalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HorizontalAlignment",
+                        "printedName": "EasyStack.HorizontalAlignment",
+                        "usr": "s:9EasyStack19HorizontalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9EasyStack19HorizontalAlignmentO6centeryA2CmF",
+            "mangledName": "$s9EasyStack19HorizontalAlignmentO6centeryA2CmF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "fill",
+            "printedName": "fill",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(EasyStack.HorizontalAlignment.Type) -> EasyStack.HorizontalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HorizontalAlignment",
+                    "printedName": "EasyStack.HorizontalAlignment",
+                    "usr": "s:9EasyStack19HorizontalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "EasyStack.HorizontalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HorizontalAlignment",
+                        "printedName": "EasyStack.HorizontalAlignment",
+                        "usr": "s:9EasyStack19HorizontalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9EasyStack19HorizontalAlignmentO4fillyA2CmF",
+            "mangledName": "$s9EasyStack19HorizontalAlignmentO4fillyA2CmF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "HorizontalAlignment",
+                "printedName": "EasyStack.HorizontalAlignment",
+                "usr": "s:9EasyStack19HorizontalAlignmentO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "HorizontalAlignment",
+                "printedName": "EasyStack.HorizontalAlignment",
+                "usr": "s:9EasyStack19HorizontalAlignmentO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9EasyStack19HorizontalAlignmentO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s9EasyStack19HorizontalAlignmentO2eeoiySbAC_ACtFZ",
+            "moduleName": "EasyStack",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9EasyStack19HorizontalAlignmentO9hashValueSivp",
+            "mangledName": "$s9EasyStack19HorizontalAlignmentO9hashValueSivp",
+            "moduleName": "EasyStack",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9EasyStack19HorizontalAlignmentO9hashValueSivg",
+                "mangledName": "$s9EasyStack19HorizontalAlignmentO9hashValueSivg",
+                "moduleName": "EasyStack",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9EasyStack19HorizontalAlignmentO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s9EasyStack19HorizontalAlignmentO4hash4intoys6HasherVz_tF",
+            "moduleName": "EasyStack",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:9EasyStack19HorizontalAlignmentO",
+        "mangledName": "$s9EasyStack19HorizontalAlignmentO",
+        "moduleName": "EasyStack",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VerticalStack",
+        "printedName": "VerticalStack",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(alignment:spacing:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VerticalStack",
+                "printedName": "EasyStack.VerticalStack",
+                "usr": "c:@M@EasyStack@objc(cs)VerticalStack"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "HorizontalAlignment",
+                "printedName": "EasyStack.HorizontalAlignment",
+                "hasDefaultArg": true,
+                "usr": "s:9EasyStack19HorizontalAlignmentO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreGraphics.CGFloat?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9EasyStack08VerticalB0C9alignment7spacingAcA19HorizontalAlignmentO_14CoreFoundation7CGFloatVSgtcfc",
+            "mangledName": "$s9EasyStack08VerticalB0C9alignment7spacingAcA19HorizontalAlignmentO_12CoreGraphics7CGFloatVSgtcfc",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "push",
+            "printedName": "push(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VerticalStack",
+                "printedName": "EasyStack.VerticalStack",
+                "usr": "c:@M@EasyStack@objc(cs)VerticalStack"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIView]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9EasyStack08VerticalB0C4pushyACSo6UIViewCd_tF",
+            "mangledName": "$s9EasyStack08VerticalB0C4pushyACSo6UIViewCd_tF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "Custom",
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VerticalStack",
+                "printedName": "EasyStack.VerticalStack",
+                "usr": "c:@M@EasyStack@objc(cs)VerticalStack"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@EasyStack@objc(cs)VerticalStack(im)initWithFrame:",
+            "mangledName": "$s9EasyStack08VerticalB0C5frameACSo6CGRectV_tcfc",
+            "moduleName": "EasyStack",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@EasyStack@objc(cs)VerticalStack",
+        "mangledName": "$s9EasyStack08VerticalB0C",
+        "moduleName": "EasyStack",
+        "declAttributes": [
+          "Custom",
+          "Final",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIStackView",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "UIKit.UIStackView",
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIView",
+        "printedName": "UIView",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "frame",
+            "printedName": "frame(width:height:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreGraphics.CGFloat?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreGraphics.CGFloat?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC9EasyStackE5frame5width6heightAB14CoreFoundation7CGFloatVSg_AJtF",
+            "mangledName": "$sSo6UIViewC9EasyStackE5frame5width6heightAB12CoreGraphics7CGFloatVSg_AJtF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "Custom",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "padding",
+            "printedName": "padding(left:top:right:bottom:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC9EasyStackE7padding4left3top5right6bottomAB14CoreFoundation7CGFloatV_A3KtF",
+            "mangledName": "$sSo6UIViewC9EasyStackE7padding4left3top5right6bottomAB12CoreGraphics7CGFloatV_A3KtF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "Custom",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "layout",
+            "printedName": "layout(fill:edgeInsets:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIEdgeInsets",
+                "printedName": "UIKit.UIEdgeInsets",
+                "hasDefaultArg": true,
+                "usr": "c:@S@UIEdgeInsets"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC9EasyStackE6layout4fill10edgeInsetsyAB_So06UIEdgeG0VtF",
+            "mangledName": "$sSo6UIViewC9EasyStackE6layout4fill10edgeInsetsyAB_So06UIEdgeG0VtF",
+            "moduleName": "EasyStack",
+            "declAttributes": [
+              "Custom",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIView",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIView",
+        "declAttributes": [
+          "Available",
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)UIResponder",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "BooleanLiteral",
+      "offset": 347,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 778,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 796,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 816,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 837,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "BooleanLiteral",
+      "offset": 903,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "BooleanLiteral",
+      "offset": 982,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1603,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1684,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/HorizontalStack.swift",
+      "kind": "BooleanLiteral",
+      "offset": 685,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/HorizontalStack.swift",
+      "kind": "StringLiteral",
+      "offset": 902,
+      "length": 39,
+      "value": "\"init(coder:) has not been implemented\""
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/HorizontalStack.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1152,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/HorizontalStack.swift",
+      "kind": "StringLiteral",
+      "offset": 360,
+      "length": 15,
+      "value": "\"EasyStack.HorizontalStack\""
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/Spacer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 305,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/Spacer.swift",
+      "kind": "StringLiteral",
+      "offset": 164,
+      "length": 7,
+      "value": "\"EasyStack.Spaсer\""
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/VerticalStack.swift",
+      "kind": "BooleanLiteral",
+      "offset": 641,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/VerticalStack.swift",
+      "kind": "StringLiteral",
+      "offset": 856,
+      "length": 39,
+      "value": "\"init(coder:) has not been implemented\""
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/VerticalStack.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1104,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/VerticalStack.swift",
+      "kind": "StringLiteral",
+      "offset": 316,
+      "length": 13,
+      "value": "\"EasyStack.VerticalStack\""
+    }
+  ]
+}

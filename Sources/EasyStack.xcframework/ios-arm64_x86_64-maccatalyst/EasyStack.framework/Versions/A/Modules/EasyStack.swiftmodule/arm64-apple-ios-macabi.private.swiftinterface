@@ -1,0 +1,55 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios13.1-macabi -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name EasyStack
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+@_exported import EasyStack
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+extension UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) public func frame(width: CoreFoundation.CGFloat? = nil, height: CoreFoundation.CGFloat? = nil) -> UIKit.UIView
+  @_Concurrency.MainActor(unsafe) public func padding(left: CoreFoundation.CGFloat = 0, top: CoreFoundation.CGFloat = 0, right: CoreFoundation.CGFloat = 0, bottom: CoreFoundation.CGFloat = 0) -> UIKit.UIView
+  @_Concurrency.MainActor(unsafe) public func layout(fill view: UIKit.UIView, edgeInsets insets: UIKit.UIEdgeInsets = .zero)
+}
+public enum VerticalAlignment {
+  case top
+  case center
+  case bottom
+  case firstTextBaseline
+  case lastTextBaseline
+  public static func == (a: EasyStack.VerticalAlignment, b: EasyStack.VerticalAlignment) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) final public class HorizontalStack : UIKit.UIStackView {
+  @_Concurrency.MainActor(unsafe) public init(alignment: EasyStack.VerticalAlignment = .center, spacing: CoreFoundation.CGFloat? = nil)
+  @_Concurrency.MainActor(unsafe) final public func push(_ subviews: UIKit.UIView...) -> EasyStack.HorizontalStack
+  @objc deinit
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) final public class Spaсer : UIKit.UIView {
+  @objc deinit
+}
+public enum HorizontalAlignment {
+  case left
+  case top
+  case right
+  case center
+  case fill
+  public static func == (a: EasyStack.HorizontalAlignment, b: EasyStack.HorizontalAlignment) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) final public class VerticalStack : UIKit.UIStackView {
+  @_Concurrency.MainActor(unsafe) public init(alignment: EasyStack.HorizontalAlignment = .center, spacing: CoreFoundation.CGFloat? = nil)
+  @_Concurrency.MainActor(unsafe) final public func push(_ subviews: UIKit.UIView...) -> EasyStack.VerticalStack
+  @objc deinit
+}
+extension EasyStack.VerticalAlignment : Swift.Equatable {}
+extension EasyStack.VerticalAlignment : Swift.Hashable {}
+extension EasyStack.HorizontalAlignment : Swift.Equatable {}
+extension EasyStack.HorizontalAlignment : Swift.Hashable {}

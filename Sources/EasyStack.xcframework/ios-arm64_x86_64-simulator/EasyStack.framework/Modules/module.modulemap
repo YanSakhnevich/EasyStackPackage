@@ -1,0 +1,11 @@
+framework module EasyStack {
+  umbrella header "EasyStack.h"
+
+  export *
+  module * { export * }
+}
+
+module EasyStack.Swift {
+  header "EasyStack-Swift.h"
+  requires objc
+}
