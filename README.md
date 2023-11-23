@@ -37,7 +37,7 @@ import EasyStack
 	
 // ------- III -------
 	
-		// Combined stack with internal layout
+	// Combined stack with internal layout
 	private lazy var labelsContainerView: UIView = {
 		let stack = VerticalStack(alignment: .leading, spacing: 2).push(
 			titleLabel,
