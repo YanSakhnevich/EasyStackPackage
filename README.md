@@ -33,11 +33,11 @@ import EasyStack
 	private let keyboard = Keyboard()
 	
 	private func setupLayout() {
-	// Attach layout to edges with edgeInsets (top = 500, left,right,bottom = 0)
-	    keyboard.layout(fill: self.view, edgeInsets: UIEdgeInsets(top: 550,
-															 left: 0,
-															 bottom: 0,
-															 right: 0))
+		// Attach layout to edges with edgeInsets (top = 500, left,right,bottom = 0)
+		keyboard.layout(fill: self.view, edgeInsets: UIEdgeInsets(top: 550,
+																  left: 0,
+																  bottom: 0,
+																  right: 0))
 	}
 	
 // ------- III -------
