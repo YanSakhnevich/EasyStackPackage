@@ -20,9 +20,7 @@ import EasyStack
 		let keyRows = [["1","2","3"],["4","5","6"],["7","8","9"],["*","0","#"]]
 		keyRows.forEach { row in
 			let rowStackView = HorizontalStack(alignment: .center)
-			row.forEach {
-				rowStackView.addArrangedSubview(makeButton(title: $0))
-			}
+			row.forEach { rowStackView.addArrangedSubview(makeButton(title: $0)) }
 			verticalStack.addArrangedSubview(rowStackView)
 		}
 	}
@@ -34,27 +32,24 @@ import EasyStack
 	
 	private func setupLayout() {
 		// Attach layout to edges with edgeInsets (top = 500, left,right,bottom = 0)
-		keyboard.layout(fill: self.view, edgeInsets: UIEdgeInsets(top: 550,
-																  left: 0,
-																  bottom: 0,
-																  right: 0))
+		keyboard.layout(fill: self.view, edgeInsets: UIEdgeInsets(top: 550, left: 0, bottom: 0, right: 0))
 	}
 	
 // ------- III -------
 	
-	// Combined stack with internal layout
+		// Combined stack with internal layout
 	private lazy var labelsContainerView: UIView = {
-	    let stack = VerticalStack(alignment: .leading, spacing: 2).push(
-	        titleLabel,
-	        Spaсer()
+		let stack = VerticalStack(alignment: .leading, spacing: 2).push(
+			titleLabel,
+			Spaсer()
 				.frame(width: 20, height: 20),
-	        HorizontalStack(alignment: .firstTextBaseline, spacing: 3).push(
-	            subtitleLabel,
-	            extraSubtitleLabel
-	            )
-	    )
-	    .padding(top: 4, left: 0, bottom: 4, right: 0)
-	    return stack
+			HorizontalStack(alignment: .firstTextBaseline, spacing: 3).push(
+				subtitleLabel,
+				extraSubtitleLabel
+			)
+		)
+			.padding(top: 4, left: 0, bottom: 4, right: 0)
+		return stack
 	}
 
 ```
