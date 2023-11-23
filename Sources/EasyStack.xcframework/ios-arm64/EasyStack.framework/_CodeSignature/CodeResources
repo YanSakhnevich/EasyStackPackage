@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/EasyStack-Swift.h</key>
 		<data>
-		Be524PEG2oaRzWad4bEhH04VHU0=
+		4xBbGJHufbJoTMVZpcJnylhMu8M=
 		</data>
 		<key>Headers/EasyStack.h</key>
 		<data>
@@ -18,23 +18,23 @@
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		SmVt8z6174oiMZzvWVtSkBxPs8w=
+		P89rF+f9+6YlWZVg+b2P29h2dJU=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		KjZ707yyRaWSzUsnFNVBzsJy7xg=
+		HG/Qfmft7QKcJVJWqLQu7p0x83o=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		GhbYf2NjUyStfbxEjjyZ/uUR2n8=
+		eCNsc/j1/N3dtLx8I6bsTcF5hFA=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		KjZ707yyRaWSzUsnFNVBzsJy7xg=
+		HG/Qfmft7QKcJVJWqLQu7p0x83o=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		CBkvNj/OMjzr+saDwrBU+PT0Plw=
+		gGDFY8oyih5+cOPPvE5tijM3SeA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/BYIBXJaUloQdupIEsbYrN+tzEi58GKBtLvijeqcFPM=
+			jO3h/qYdjkspC6iMTprNSvBpI6SWDY6bAePJA9GO1KE=
 			</data>
 		</dict>
 		<key>Headers/EasyStack.h</key>
@@ -61,35 +61,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			imy41IJjZL3h31pK8DRw09RHganZD/eR/jqSf2Vo204=
+			3u/HkR1g1TkWGfz3FXBK+YJYoFV9yVAx05sxEADV1aY=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7jlB+bgSSRx0plC/Lx6kQLkzm7HtnaCvxzL+3r1Qk3A=
+			EL2hlcDvFSPYomc6Bj21u0SDDJG6e3hyNpvJGA9VALs=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I9+nkFR9vikRLwjjdr+LQ7oHGMBWfqR7NzprnkpS5Pw=
+			Zt1mfJ/+A5BZZRElGcoz6oynMGeARvzF7Lts8NoXsts=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7jlB+bgSSRx0plC/Lx6kQLkzm7HtnaCvxzL+3r1Qk3A=
+			EL2hlcDvFSPYomc6Bj21u0SDDJG6e3hyNpvJGA9VALs=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			brRGql+wa9By6vG7mLdoEGtQM/7oHKBTTE0v0m9Wgn4=
+			kDewRWPs3lSWOnVTWx9ElApcu6ldVaKZp5gsavTjc4c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

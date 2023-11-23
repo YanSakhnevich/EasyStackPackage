@@ -30,6 +30,7 @@ public enum VerticalAlignment {
   @objc deinit
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) final public class Spaсer : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public init()
   @objc deinit
 }
 public enum HorizontalAlignment {

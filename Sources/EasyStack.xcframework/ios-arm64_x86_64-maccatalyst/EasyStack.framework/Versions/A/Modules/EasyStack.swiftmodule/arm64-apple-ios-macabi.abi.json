@@ -569,6 +569,33 @@
           {
             "kind": "Constructor",
             "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Spaсer",
+                "printedName": "EasyStack.Spaсer",
+                "usr": "c:@M@EasyStack@objc(cs)Spaсer"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@EasyStack@objc(cs)Spaсer(im)init",
+            "mangledName": "$s9EasyStack009Spaer_DyeCACycfc",
+            "moduleName": "EasyStack",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
             "printedName": "init(frame:)",
             "children": [
               {
@@ -1551,7 +1578,7 @@
     {
       "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/Spacer.swift",
       "kind": "BooleanLiteral",
-      "offset": 305,
+      "offset": 312,
       "length": 5,
       "value": "false"
     },

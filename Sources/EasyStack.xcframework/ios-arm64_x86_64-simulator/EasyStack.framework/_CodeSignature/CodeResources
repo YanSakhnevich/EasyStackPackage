@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/EasyStack-Swift.h</key>
 		<data>
-		YwTOT6duQZUfcNmL6LsJ5DRusNo=
+		/c4kdwg+O09Gm4W1uDeyxtUvGrU=
 		</data>
 		<key>Headers/EasyStack.h</key>
 		<data>
@@ -18,43 +18,43 @@
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		SmVt8z6174oiMZzvWVtSkBxPs8w=
+		P89rF+f9+6YlWZVg+b2P29h2dJU=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		SmTYXnroT4TYx58mMm7uDBtNVJE=
+		qJwvOyITacaWtjeUjF5altsuCb8=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		vo57npKeIJZ6QJEAgM6K82g7gW4=
+		9DSg7D4ZS8HHz2oB1rTPaDNEriY=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		SmTYXnroT4TYx58mMm7uDBtNVJE=
+		qJwvOyITacaWtjeUjF5altsuCb8=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SAY116sAzw/ChWSMs2YgRjP8M3Y=
+		/Eban09gxMLNIDl+9QdsllqWg9s=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		SmVt8z6174oiMZzvWVtSkBxPs8w=
+		P89rF+f9+6YlWZVg+b2P29h2dJU=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		aYVu+ARYeu9rAEuhj8Ai2De01yo=
+		Q+7m2kSuCWMJd+6FkP3Y4AVuQDs=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		KfU6wglX7Yxh2Ysy54McMTz/TgM=
+		7DVYHcac9774Sh5jj20JN8jBMkQ=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		aYVu+ARYeu9rAEuhj8Ai2De01yo=
+		Q+7m2kSuCWMJd+6FkP3Y4AVuQDs=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hZw33fWiDriluf4cPFG30+OHyGQ=
+		pXFURMZtBgEVFlBtnVJSF2ZHbkY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ok9ADDBi0enlOZ41DQwntibxcQO8mpidAJ8cKn0/hyM=
+			SQAG4YSmxnNIbn1otgftZsr7fXwALa6yu1xJvz4Vs48=
 			</data>
 		</dict>
 		<key>Headers/EasyStack.h</key>
@@ -81,70 +81,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			imy41IJjZL3h31pK8DRw09RHganZD/eR/jqSf2Vo204=
+			3u/HkR1g1TkWGfz3FXBK+YJYoFV9yVAx05sxEADV1aY=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4eZEOSnq5mivF/2Cbwb66ctC6SH1d39U3cTpRc6s6js=
+			w1EfdGoY28pciKHRY/bP0SMC38MBNfRVae5ZJDcdsHg=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JHQ05/FEzCPDYUI5RhWJ+42fhXBCMWEttMvS7gOSCxg=
+			MLgdVSCu/GNFKgXfG9b6EiLpDTfqVO68MrE8HrW8q6E=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4eZEOSnq5mivF/2Cbwb66ctC6SH1d39U3cTpRc6s6js=
+			w1EfdGoY28pciKHRY/bP0SMC38MBNfRVae5ZJDcdsHg=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oSEotIzwWqwst9HhwF++qUyvWbs98BBCENQtqaSXV80=
+			ZRPvPIheMPxcpjq8oKsRF4ZdwEirGw0PlAS2LHpse7E=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			imy41IJjZL3h31pK8DRw09RHganZD/eR/jqSf2Vo204=
+			3u/HkR1g1TkWGfz3FXBK+YJYoFV9yVAx05sxEADV1aY=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nZLoXgaA1jNkek4pS0mGl9OPxQIW6mJFPALGDn5OVZY=
+			YT3lZlZCHaWdA3G6Tq8xoJkYdj9fOcJkSdn5k3HoG/o=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			flM1wD56UlatMdaRXhEnio7C5Gx6Gsa4s+xIyNre3fQ=
+			5mswwtWl+DKM/RZCllDP92UBeh7zIDUN70/CW8URA5M=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nZLoXgaA1jNkek4pS0mGl9OPxQIW6mJFPALGDn5OVZY=
+			YT3lZlZCHaWdA3G6Tq8xoJkYdj9fOcJkSdn5k3HoG/o=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CmdCjaUH9J6Q7yp5oexlL2mAcV8ADSrRmsAOEmXKMjE=
+			qlnPvmpczCda73wCMqkq08Fi3vJBvgytMKLwIdsam4M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

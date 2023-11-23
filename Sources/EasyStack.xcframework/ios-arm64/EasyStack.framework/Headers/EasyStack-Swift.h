@@ -296,8 +296,7 @@ SWIFT_CLASS("_TtC9EasyStack15HorizontalStack")
 SWIFT_CLASS("_TtC9EasyStack7Spaсer")
 @interface Spaсer : UIView
 /// “Space” initializer for View
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end

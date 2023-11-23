@@ -15,7 +15,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ok9ADDBi0enlOZ41DQwntibxcQO8mpidAJ8cKn0/hyM=
+			SQAG4YSmxnNIbn1otgftZsr7fXwALa6yu1xJvz4Vs48=
 			</data>
 		</dict>
 		<key>Headers/EasyStack.h</key>
@@ -29,70 +29,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jUczWd1OvpgUafw+qcRrU+v83UAivd9OlFyk1O90GEw=
+			JBp1vsIaLydUpEX7r9kHhCy/3IVRbBBMRQJjBQy5YFs=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vyWZ+UE7PJNRrtASUDwJIf2p5TS1d137SrhQg/EDCFA=
+			7gNiM9fI+vbf/ARv3S42tW+Q9VW/jGNveszYiXVarCc=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nOuiB1lSe4vCue7LmNvOICot3WyNsFWcbRRHF0Qo4mA=
+			z6eRsto6NG6WCnxP6IdgsSI32eHGKGfthHt7kkU9udM=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vyWZ+UE7PJNRrtASUDwJIf2p5TS1d137SrhQg/EDCFA=
+			7gNiM9fI+vbf/ARv3S42tW+Q9VW/jGNveszYiXVarCc=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gv8NUftLR9GpJlS3bT3ETV1asItpk73hiWNOkdMwWNU=
+			7+/Obt1FRQ97HKf1qQMy5zPfPZfCT2ZbBOHZsneOPas=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jUczWd1OvpgUafw+qcRrU+v83UAivd9OlFyk1O90GEw=
+			JBp1vsIaLydUpEX7r9kHhCy/3IVRbBBMRQJjBQy5YFs=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aqculrjC42LiHX7osLnvKT70hSLWkzp92kiHeI1Bv2A=
+			JyvwgkbCzJN1rqbN3TsopLHtlF9wmhQ269ekEByTKJo=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X/18MSKRK6vN6umRuMvAsbJtIMz4ABcRRu4FW2U13Mo=
+			xZHzwG3dyPJet8X6KQIIf0RUtlRuFrKtWabB2C9z/k8=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aqculrjC42LiHX7osLnvKT70hSLWkzp92kiHeI1Bv2A=
+			JyvwgkbCzJN1rqbN3TsopLHtlF9wmhQ269ekEByTKJo=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FQUehPpRZO5xFjcGkbT5NoLZ5Q1gwCLNXAQesUTJ/3s=
+			hpRp4pcxt5WZHDIx1YTaiyDuoNNuhXWzPPRWyX8Lo4c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
