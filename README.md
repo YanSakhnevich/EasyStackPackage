@@ -12,11 +12,11 @@ Use Swift Package Manager
 ```swift
 import EasyStack
 
-	// ------- I -------
+// ------- I -------
 	
-private var verticalStack = VerticalStack(alignment: .right)
+	private var verticalStack = VerticalStack(alignment: .right)
 
-private func makeButtons() {
+	private func makeButtons() {
 		let keyRows = [["1","2","3"],["4","5","6"],["7","8","9"],["*","0","#"]]
 		keyRows.forEach { row in
 			let rowStackView = HorizontalStack(alignment: .center)
@@ -28,7 +28,7 @@ private func makeButtons() {
 	}
 
 	
-	// ------- II -------
+// ------- II -------
 	
 	private let keyboard = Keyboard()
 	
@@ -40,7 +40,7 @@ private func makeButtons() {
 															 right: 0))
 	}
 	
-	// ------- III -------
+// ------- III -------
 	
 	// Combined stack with internal layout
 	private lazy var labelsContainerView: UIView = {
