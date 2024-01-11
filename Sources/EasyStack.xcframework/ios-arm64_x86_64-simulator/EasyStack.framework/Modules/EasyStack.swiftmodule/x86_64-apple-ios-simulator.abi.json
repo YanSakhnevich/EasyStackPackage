@@ -15,6 +15,214 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "ViewProtocol",
+        "printedName": "ViewProtocol",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "setup",
+            "printedName": "setup(with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((τ_0_0) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(τ_0_0) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ]
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9EasyStack12ViewProtocolPAASo6UIViewCRbzrlE5setup4withxyxcSg_tF",
+            "mangledName": "$s9EasyStack12ViewProtocolPAASo6UIViewCRbzrlE5setup4withxyxcSg_tF",
+            "moduleName": "EasyStack",
+            "genericSig": "<τ_0_0 where τ_0_0 : UIKit.UIView>",
+            "sugared_genericSig": "<Self where Self : UIKit.UIView>",
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "frame",
+            "printedName": "frame(width:height:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreGraphics.CGFloat?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreGraphics.CGFloat?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9EasyStack12ViewProtocolPAASo6UIViewCRbzrlE5frame5width6heightAE14CoreFoundation7CGFloatVSg_ALtF",
+            "mangledName": "$s9EasyStack12ViewProtocolPAASo6UIViewCRbzrlE5frame5width6heightAE12CoreGraphics7CGFloatVSg_ALtF",
+            "moduleName": "EasyStack",
+            "genericSig": "<τ_0_0 where τ_0_0 : UIKit.UIView>",
+            "sugared_genericSig": "<Self where Self : UIKit.UIView>",
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "padding",
+            "printedName": "padding(left:top:right:bottom:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9EasyStack12ViewProtocolPAASo6UIViewCRbzrlE7padding4left3top5right6bottomAE14CoreFoundation7CGFloatV_A3MtF",
+            "mangledName": "$s9EasyStack12ViewProtocolPAASo6UIViewCRbzrlE7padding4left3top5right6bottomAE12CoreGraphics7CGFloatV_A3MtF",
+            "moduleName": "EasyStack",
+            "genericSig": "<τ_0_0 where τ_0_0 : UIKit.UIView>",
+            "sugared_genericSig": "<Self where Self : UIKit.UIView>",
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "layout",
+            "printedName": "layout(fill:edgeInsets:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIEdgeInsets",
+                "printedName": "UIKit.UIEdgeInsets",
+                "hasDefaultArg": true,
+                "usr": "c:@S@UIEdgeInsets"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9EasyStack12ViewProtocolPAASo6UIViewCRbzrlE6layout4fill10edgeInsetsyAE_So06UIEdgeI0VtF",
+            "mangledName": "$s9EasyStack12ViewProtocolPAASo6UIViewCRbzrlE6layout4fill10edgeInsetsyAE_So06UIEdgeI0VtF",
+            "moduleName": "EasyStack",
+            "genericSig": "<τ_0_0 where τ_0_0 : UIKit.UIView>",
+            "sugared_genericSig": "<Self where Self : UIKit.UIView>",
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:9EasyStack12ViewProtocolP",
+        "mangledName": "$s9EasyStack12ViewProtocolP",
+        "moduleName": "EasyStack",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
@@ -544,6 +752,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "ViewProtocol",
+            "printedName": "ViewProtocol",
+            "usr": "s:9EasyStack12ViewProtocolP",
+            "mangledName": "$s9EasyStack12ViewProtocolP"
+          },
+          {
+            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
@@ -694,6 +909,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ViewProtocol",
+            "printedName": "ViewProtocol",
+            "usr": "s:9EasyStack12ViewProtocolP",
+            "mangledName": "$s9EasyStack12ViewProtocolP"
           },
           {
             "kind": "Conformance",
@@ -1241,6 +1463,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "ViewProtocol",
+            "printedName": "ViewProtocol",
+            "usr": "s:9EasyStack12ViewProtocolP",
+            "mangledName": "$s9EasyStack12ViewProtocolP"
+          },
+          {
+            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
@@ -1259,147 +1488,6 @@
         "kind": "TypeDecl",
         "name": "UIView",
         "printedName": "UIView",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "frame",
-            "printedName": "frame(width:height:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIView",
-                "printedName": "UIKit.UIView",
-                "usr": "c:objc(cs)UIView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "CoreGraphics.CGFloat?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGFloat",
-                    "printedName": "CoreGraphics.CGFloat",
-                    "usr": "s:14CoreFoundation7CGFloatV"
-                  }
-                ],
-                "hasDefaultArg": true,
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "CoreGraphics.CGFloat?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGFloat",
-                    "printedName": "CoreGraphics.CGFloat",
-                    "usr": "s:14CoreFoundation7CGFloatV"
-                  }
-                ],
-                "hasDefaultArg": true,
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:So6UIViewC9EasyStackE5frame5width6heightAB14CoreFoundation7CGFloatVSg_AJtF",
-            "mangledName": "$sSo6UIViewC9EasyStackE5frame5width6heightAB12CoreGraphics7CGFloatVSg_AJtF",
-            "moduleName": "EasyStack",
-            "declAttributes": [
-              "Custom",
-              "RawDocComment"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "padding",
-            "printedName": "padding(left:top:right:bottom:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIView",
-                "printedName": "UIKit.UIView",
-                "usr": "c:objc(cs)UIView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "hasDefaultArg": true,
-                "usr": "s:14CoreFoundation7CGFloatV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "hasDefaultArg": true,
-                "usr": "s:14CoreFoundation7CGFloatV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "hasDefaultArg": true,
-                "usr": "s:14CoreFoundation7CGFloatV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "hasDefaultArg": true,
-                "usr": "s:14CoreFoundation7CGFloatV"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:So6UIViewC9EasyStackE7padding4left3top5right6bottomAB14CoreFoundation7CGFloatV_A3KtF",
-            "mangledName": "$sSo6UIViewC9EasyStackE7padding4left3top5right6bottomAB12CoreGraphics7CGFloatV_A3KtF",
-            "moduleName": "EasyStack",
-            "declAttributes": [
-              "Custom",
-              "RawDocComment"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "layout",
-            "printedName": "layout(fill:edgeInsets:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UIView",
-                "printedName": "UIKit.UIView",
-                "usr": "c:objc(cs)UIView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UIEdgeInsets",
-                "printedName": "UIKit.UIEdgeInsets",
-                "hasDefaultArg": true,
-                "usr": "c:@S@UIEdgeInsets"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:So6UIViewC9EasyStackE6layout4fill10edgeInsetsyAB_So06UIEdgeG0VtF",
-            "mangledName": "$sSo6UIViewC9EasyStackE6layout4fill10edgeInsetsyAB_So06UIEdgeG0VtF",
-            "moduleName": "EasyStack",
-            "declAttributes": [
-              "Custom",
-              "RawDocComment"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
         "declKind": "Class",
         "usr": "c:objc(cs)UIView",
         "moduleName": "UIKit",
@@ -1472,6 +1560,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "ViewProtocol",
+            "printedName": "ViewProtocol",
+            "usr": "s:9EasyStack12ViewProtocolP",
+            "mangledName": "$s9EasyStack12ViewProtocolP"
+          },
+          {
+            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
@@ -1486,63 +1581,70 @@
     {
       "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
       "kind": "BooleanLiteral",
-      "offset": 347,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
-      "kind": "IntegerLiteral",
-      "offset": 778,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
-      "kind": "IntegerLiteral",
-      "offset": 796,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
-      "kind": "IntegerLiteral",
-      "offset": 816,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
-      "kind": "IntegerLiteral",
-      "offset": 837,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
-      "kind": "BooleanLiteral",
-      "offset": 903,
+      "offset": 547,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
       "kind": "BooleanLiteral",
-      "offset": 982,
+      "offset": 801,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1232,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1250,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1270,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1291,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1357,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
       "kind": "BooleanLiteral",
-      "offset": 1603,
+      "offset": 1436,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
       "kind": "BooleanLiteral",
-      "offset": 1684,
+      "offset": 2057,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yansakhnevich\/Documents\/PetProjects\/EasyStack\/EasyStack\/UIView+Layout.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2138,
       "length": 5,
       "value": "false"
     },

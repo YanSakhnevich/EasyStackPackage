@@ -18,23 +18,23 @@
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		P89rF+f9+6YlWZVg+b2P29h2dJU=
+		vxH+DzibYTW8YrBy2j+ZvsJR4B4=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		HG/Qfmft7QKcJVJWqLQu7p0x83o=
+		nTg5hzBcuF7N6Qzh7G4Dj9MYuPM=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		eCNsc/j1/N3dtLx8I6bsTcF5hFA=
+		XGXMFNBM8XM2y4v7sA29dWQcp68=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		HG/Qfmft7QKcJVJWqLQu7p0x83o=
+		nTg5hzBcuF7N6Qzh7G4Dj9MYuPM=
 		</data>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		gGDFY8oyih5+cOPPvE5tijM3SeA=
+		KgOMnwUuQC9pEUbYI1edT1Rxy/8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,35 +61,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3u/HkR1g1TkWGfz3FXBK+YJYoFV9yVAx05sxEADV1aY=
+			ODLFi0vT5ESztBXW3GpRWbA3Kon5afEvy7oxRFR06JA=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EL2hlcDvFSPYomc6Bj21u0SDDJG6e3hyNpvJGA9VALs=
+			JWJtQijuo+G8W/eZepxwvnSqzPgM5BgBf0VTNJajz0o=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zt1mfJ/+A5BZZRElGcoz6oynMGeARvzF7Lts8NoXsts=
+			rjCGqhaS0KKZBdhDn0vG0oWwj42N/C1af06IAYijDxY=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EL2hlcDvFSPYomc6Bj21u0SDDJG6e3hyNpvJGA9VALs=
+			JWJtQijuo+G8W/eZepxwvnSqzPgM5BgBf0VTNJajz0o=
 			</data>
 		</dict>
 		<key>Modules/EasyStack.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kDewRWPs3lSWOnVTWx9ElApcu6ldVaKZp5gsavTjc4c=
+			oaAMnaB+LBoaZx6PMPQApMyHhgiuN2i0pLeaMlRomgI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

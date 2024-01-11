@@ -7,10 +7,15 @@ import Swift
 import UIKit
 import _Concurrency
 import _StringProcessing
-extension UIKit.UIView {
-  @_Concurrency.MainActor(unsafe) public func frame(width: CoreFoundation.CGFloat? = nil, height: CoreFoundation.CGFloat? = nil) -> UIKit.UIView
-  @_Concurrency.MainActor(unsafe) public func padding(left: CoreFoundation.CGFloat = 0, top: CoreFoundation.CGFloat = 0, right: CoreFoundation.CGFloat = 0, bottom: CoreFoundation.CGFloat = 0) -> UIKit.UIView
-  @_Concurrency.MainActor(unsafe) public func layout(fill view: UIKit.UIView, edgeInsets insets: UIKit.UIEdgeInsets = .zero)
+public protocol ViewProtocol : AnyObject {
+}
+extension EasyStack.ViewProtocol where Self : UIKit.UIView {
+  public func setup(with closure: ((Self) -> Swift.Void)? = nil) -> Self
+  public func frame(width: CoreFoundation.CGFloat? = nil, height: CoreFoundation.CGFloat? = nil) -> UIKit.UIView
+  public func padding(left: CoreFoundation.CGFloat = 0, top: CoreFoundation.CGFloat = 0, right: CoreFoundation.CGFloat = 0, bottom: CoreFoundation.CGFloat = 0) -> UIKit.UIView
+  public func layout(fill view: UIKit.UIView, edgeInsets insets: UIKit.UIEdgeInsets = .zero)
+}
+extension UIKit.UIView : EasyStack.ViewProtocol {
 }
 public enum VerticalAlignment {
   case top
